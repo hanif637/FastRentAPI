@@ -37,4 +37,4 @@ Tema yang dipilih adalah **rental kendaraan**, karena memudahkan pengelolaan dat
 | PUT | /api/Vehicles/{id} | Mengubah data kendaraan |
 | DELETE | /api/Vehicles/{id} | Menghapus data kendaraan |
 
-Link Video: https://youtu.be/tlYdLpOc7NM
+Link Video: https://youtu.be/EWNz3dbmNdI
